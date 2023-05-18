@@ -1,0 +1,88 @@
+.cart {
+  display: flex;
+  flex: 1;
+}
+.leftCart {
+  flex: 0.7;
+  padding: 10px;
+}
+.rightCart {
+  flex: 0.3;
+  margin: 10px;
+  padding: 10px;
+}
+.cartContainer {
+  display: flex;
+  margin-bottom: 20px;
+}
+.leftCartContainer {
+  margin-left: 15px;
+  flex: 1;
+}
+.btnStyle {
+  margin-top: 15px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: white;
+  cursor: pointer;
+}
+.cartButton {
+  background-color: #febe10;
+  padding: 5px;
+  border-radius: 6px;
+  outline: none;
+  margin-top: 8px;
+  border: none;
+  cursor: pointer;
+}
+.orderButton {
+  background-color: #febe10;
+  border: none;
+  outline: none;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 8px;
+  border-radius: 5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.location {
+  color: grey;
+  margin-left: 10px;
+}
+.locationRight {
+  display: flex;
+}
+.locationText {
+  margin-left: 10px;
+  margin-top: 14px;
+  color: black;
+}
+.address {
+  border-color: #febe10;
+  margin-left: 30px;
+  padding: 5px;
+}
+.payment {
+  color: gray;
+  margin-top: 10px;
+  display: flex;
+}
+.radioBtn {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.total {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hide {
+  display: none;
+}
+.radio {
+  margin-top: -20px;
+}

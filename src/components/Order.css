@@ -1,0 +1,36 @@
+.order {
+  display: flex;
+  margin-bottom: 20px;
+}
+.orderList {
+  margin: 5px;
+  margin-left: 15px;
+}
+.orderDetail {
+  margin-left: 10px;
+}
+.headingStyle {
+  margin-top: 17px;
+  margin-left: 10px;
+  margin-left: 15px;
+}
+.headingStyles {
+  margin-top: 28px;
+  margin-right: 10px;
+  margin-left: 15px;
+}
+.styleHeader {
+  display: flex;
+  margin-left: 13px;
+}
+.bikeStyle {
+  margin-top: 21px;
+  margin-right: 10px;
+}
+.thumsUp {
+  display: flex;
+  margin-left: 15px;
+}
+/* .order {
+  margin-left: 10;
+} */

@@ -1,0 +1,59 @@
+.email {
+  padding-left: 43%;
+  margin-right: 65px;
+  margin-bottom: 60px;
+}
+.login {
+  padding-top: 10%;
+  padding-left: 50%;
+  padding-bottom: 40px;
+  font-family: "Brush Script MT", cursive;
+  font-size: 28px;
+}
+.password {
+  padding-left: 43%;
+  margin-right: 35px;
+}
+.loginBtn {
+  margin-top: 4%;
+  padding: 10px;
+  margin-left: 50%;
+}
+.loginStyle {
+  border-color: red;
+}
+.emailInput {
+  margin-top: 5px;
+}
+.submitBtn {
+  outline: 0px;
+  border: 0px;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 10px;
+  font-weight: bold;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-top: 35px;
+  margin-left: 35%;
+}
+.nameStyle {
+  margin-top: 10px;
+}
+.emailStyle {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.emailText {
+  margin-top: 25px;
+}
+
+.inputStyle {
+  padding: 5px;
+  border-radius: 5px;
+  padding-right: 60%;
+}
+.container {
+  color: white;
+}
